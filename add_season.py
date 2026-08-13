@@ -1,3 +1,10 @@
+'''
+Author: MN
+Date: 8/13/26
+
+Description:
+    Adds a season column based on the start time of each detection for a whalemoanviz detection file.
+'''
 import pandas as pd
 
 # Input/output files

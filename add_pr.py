@@ -1,6 +1,4 @@
 '''
-Add 'pr' Column to Detection File
-
 Author: MN
 
 Description:

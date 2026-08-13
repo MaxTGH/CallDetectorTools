@@ -3,7 +3,7 @@ Author: MN
 Date: 8/13/26
 
 Description:
-    Removes annotations with missing or empty labels.
+    Removes annotations with missing or empty labels from make_new_examples file.
 '''
 import pandas as pd
 

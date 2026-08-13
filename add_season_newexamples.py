@@ -3,9 +3,8 @@ Author: MN
 Date: 8/13/26
 
 Description:
-    Adds a season column based on the date in each spectrogram filename.
+    Adds a season column based on the date in each spectrogram filename for make_new_examples.
 '''
-
 
 import os
 import re
